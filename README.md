@@ -8,3 +8,6 @@ Educational repository for HU OSS SW 2019
 | Jeongkyu Shin | Teach | 
 | Park Myung Chul | Student |
 | Genesis | Hyundai |
+| G70 | Genesis |
+| G80 | Genesis |
+| G90 | Genesis |
