@@ -5,5 +5,8 @@ Educational repository for HU OSS SW 2019
 
 | Name | Role |
 |------|------|
-|Jeongkyu Shin | Teach | 
-|Park Myung Chul | Student |
+| Jeongkyu Shin | Teach | 
+| Park Myung Chul | Student |
+| G70 | Genesis |
+| G80 | Genesis |
+| G90 | Genesis |
